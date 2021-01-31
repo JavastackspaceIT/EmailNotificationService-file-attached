@@ -17,8 +17,8 @@ import com.email.notification.service.EmailNotificationService;
 @RequestMapping(value = "/api/email/notificaiton")
 public class EmailNotificationController {
 	//add comment by rakesh kumar 
-	
 	//add new feature_bug_110
+	//rakesh adde second line 
 	@Autowired
 	private EmailNotificationService emailNotificationService;
 
