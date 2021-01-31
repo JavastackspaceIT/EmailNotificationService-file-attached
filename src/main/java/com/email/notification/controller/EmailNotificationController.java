@@ -16,6 +16,7 @@ import com.email.notification.service.EmailNotificationService;
 @RestController
 @RequestMapping(value = "/api/email/notificaiton")
 public class EmailNotificationController {
+	//add comment by rakesh kumar 
 	@Autowired
 	private EmailNotificationService emailNotificationService;
 
