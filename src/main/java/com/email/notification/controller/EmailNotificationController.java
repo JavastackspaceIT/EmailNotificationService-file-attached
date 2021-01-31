@@ -17,6 +17,7 @@ import com.email.notification.service.EmailNotificationService;
 @RequestMapping(value = "/api/email/notificaiton")
 public class EmailNotificationController {
 
+// autowired is used for dependancy injection 
 	@Autowired
 	private EmailNotificationService emailNotificationService;
 
