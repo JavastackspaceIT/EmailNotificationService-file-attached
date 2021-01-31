@@ -17,7 +17,7 @@ import com.email.notification.service.EmailNotificationService;
 @RequestMapping(value = "/api/email/notificaiton")
 public class EmailNotificationController {
 
-// autowired is used for dependancy injection 
+// autowired is used for dependancy injection rakesh branch
 	@Autowired
 	private EmailNotificationService emailNotificationService;
 
