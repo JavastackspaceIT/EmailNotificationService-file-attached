@@ -7,6 +7,9 @@ import java.util.List;
 public class MessageDto {
 //
 
+
+
+
 	// msg.setTo("kumarrakesh.java@gmail.com", "rksinghyadav1995@gmail.com");
 	// msg.setSubject("Testing from Spring Boot");
 	/// msg.setText("Hello World \n Spring Boot Email");

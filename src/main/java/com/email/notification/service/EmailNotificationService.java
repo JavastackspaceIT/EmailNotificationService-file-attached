@@ -18,7 +18,7 @@ import com.email.notification.dto.MessageDto;
 
 @Service
 public class EmailNotificationService {
-
+// autowired
 	@Autowired
 	private JavaMailSender javaMailSender;
 
