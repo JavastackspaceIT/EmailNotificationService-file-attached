@@ -6,7 +6,14 @@ import java.util.List;
 */
 public class MessageDto {
 //
+
+<<<<<<< HEAD
+
+
+=======
 // this message is used for construct the object
+>>>>>>> rkash_100
+
 	// msg.setTo("kumarrakesh.java@gmail.com", "rksinghyadav1995@gmail.com");
 	// msg.setSubject("Testing from Spring Boot");
 	/// msg.setText("Hello World \n Spring Boot Email");

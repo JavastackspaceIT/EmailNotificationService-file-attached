@@ -18,8 +18,11 @@ import com.email.notification.dto.MessageDto;
 
 @Service
 public class EmailNotificationService {
+<<<<<<< HEAD
 // autowired
+=======
 // Auto wired for dependancy injection 
+>>>>>>> rkash_100
 	@Autowired
 	private JavaMailSender javaMailSender;
 
