@@ -1,7 +1,9 @@
 package com.email.notification.dto;
 
 import java.util.List;
-
+/*
+ This cleass is created for Holding the message information 
+*/
 public class MessageDto {
 
 	// msg.setTo("kumarrakesh.java@gmail.com", "rksinghyadav1995@gmail.com");
